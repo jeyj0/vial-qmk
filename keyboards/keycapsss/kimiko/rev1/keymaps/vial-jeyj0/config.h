@@ -54,3 +54,6 @@
 #define VIAL_UNLOCK_COMBO_COLS { 0, 4 }
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 6
+
+#define TAPPING_TERM 300
+#define PERMISSIVE_HOLD // better mod-tap when typing fast
